@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ankush-0823
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning DSA in Java
+- 💞️ I’m looking to collaborate on projects based on language python and java
+- 📫 How to reach me? Well, if you're reading this you've already reached me !!!
+- 😊 This is my LinkedIn account - https://www.linkedin.com/in/ankush-kumar-a62776210 . You can find me here.
